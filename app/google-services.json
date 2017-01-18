@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "256922921505",
+    "firebase_url": "https://kolo06todolist.firebaseio.com",
+    "project_id": "kolo06todolist",
+    "storage_bucket": "kolo06todolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256922921505:android:ff26c62cf8bc5de9",
+        "android_client_info": {
+          "package_name": "com.tieorange.kolo06_todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256922921505-vbem3pmlnjasp8js6om5614r02paoue0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tieorange.kolo06_todolist",
+            "certificate_hash": "20A07C8989229164EDEE4138812B84E8E9F9FE66"
+          }
+        },
+        {
+          "client_id": "256922921505-7rdec8624jqh6tr2i1pai2g2hng6c4nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhSi7zKdXP-UaIk85ogaCLWwWlEy_Mers"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256922921505-7rdec8624jqh6tr2i1pai2g2hng6c4nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
